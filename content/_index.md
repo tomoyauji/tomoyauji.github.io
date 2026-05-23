@@ -59,7 +59,7 @@ sections:
       text: ''
       filters:
         folders:
-          - publications/jounal-article
+          - publications
         exclude_featured: false
     design:
       view: citation
