@@ -2,7 +2,7 @@
 title: "Publications"
 ---
 
-## Journal Articles
+## Article
 
 1. **Energy-momentum tensor form factors and spin density distribution in the nucleon calculated in a quantized Skyrme model with vector mesons**  
    Kenji Fukushima, Tomoya Uji  
