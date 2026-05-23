@@ -18,8 +18,8 @@ date: "2025-05-21T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "*Journal of High Energy Physics* 05 (2025) 181"
+publication_short: "*JHEP* 05 (2025) 181"
 
 # abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
@@ -32,25 +32,25 @@ featured: false
 
 hugoblox:
   ids:
-    arxiv: 1512.04133v1
+    arxiv: 2411.09994v3
 
-links:
-  - type: pdf
-    url: http://arxiv.org/pdf/1512.04133v1
-  # - type: code
-  #   url: https://github.com/HugoBlox/kit
-  # - type: dataset
-  #   url: ""
-  # - type: poster
-  #   url: ""
-  # - type: project
-  #   url: ""
-  # - type: slides
-  #   url: https://www.slideshare.net/
-  # - type: source
-  #   url: ""
-  # - type: video
-  #   url: ""
+# links:
+#   - type: pdf
+#     url: http://arxiv.org/pdf/2411.09994v3
+#   - type: code
+#     url: https://github.com/HugoBlox/kit
+#   - type: dataset
+#     url: ""
+#   - type: poster
+#     url: ""
+#   - type: project
+#     url: ""
+#   - type: slides
+#     url: https://www.slideshare.net/
+#   - type: source
+#     url: ""
+#   - type: video
+#     url: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
