@@ -33,14 +33,14 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
-  - block: markdown
-    content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-        I am a theoretical physicist working on QCD.
-    design:
-      columns: '1'
+  # - block: markdown
+  #   content:
+  #     title: '📚 My Research'
+  #     subtitle: ''
+  #     text: |-
+  #       I am a theoretical physicist working on QCD.
+  #   design:
+  #     columns: '1'
   # - block: collection
   #   id: papers
   #   content:
@@ -53,12 +53,13 @@ sections:
   #     view: article-grid
   #     columns: 2
   - block: collection
+    id: papers
     content:
-      title: Recent Publications
+      title: Publications
       text: ''
       filters:
         folders:
-          - publications
+          - publications/jounal-article
         exclude_featured: false
     design:
       view: citation
