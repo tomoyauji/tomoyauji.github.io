@@ -6,11 +6,11 @@ title: "Publications"
 
 4. "Energy-momentum tensor form factors and spin density distribution in the nucleon calculated in a quantized Skyrme model with vector mesons"  
    Kenji Fukushima, Tomoya Uji
-   [arXiv:2603.11704 [hep-ph]](https://arxiv.org/abs/2603.11704)
+   [arXiv:2603.11704 [hep-ph]](https://arxiv.org/abs/2603.11704).
 
 3. "Magnetic-type Love number differentiating quark stars from neutron stars"  
    Kenji Fukushima, Josuke Minamiguchi, Tomoya Uji
-   [arXiv:2511.02236 [astro-ph.HE]](https://arxiv.org/abs/2511.02236)
+   [arXiv:2511.02236 [astro-ph.HE]](https://arxiv.org/abs/2511.02236).
 
 2. "Pseudogauge ambiguity in the distributions of energy density, pressure, and shear force inside the nucleon"  
    Kenji Fukushima, Tomoya Uji 
