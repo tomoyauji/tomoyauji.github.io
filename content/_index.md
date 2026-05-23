@@ -70,13 +70,11 @@ sections:
       text: |-
         ## Article
 
-        4. "Energy-momentum tensor form factors and spin density distribution in the nucleon calculated in a quantized Skyrme model with vector mesons"
-        Kenji Fukushima, Tomoya Uji
-        [arXiv:2603.11704 [hep-ph]](https://arxiv.org/abs/2603.11704)
+        4. "Energy-momentum tensor form factors and spin density distribution in the nucleon calculated in a quantized Skyrme model with vector mesons"<br> Kenji Fukushima, Tomoya Uji<br> [arXiv:2603.11704 [hep-ph]](https://arxiv.org/abs/2603.11704)
 
-        1. "Photon polarization tensor at finite temperature and density in a magnetic field"
-         Kenji Fukushima, Yoshimasa Hidaka, Tomoya Uji 
-         [_JHEP_ **05** (2025) 181](https://doi.org/10.1007/JHEP05(2025)181), [arXiv:2411.09994 [hep-ph]](https://arxiv.org/abs/2411.09994).
+        2. "Pseudogauge ambiguity in the distributions of energy density, pressure, and shear force inside the nucleon"<br> Kenji Fukushima, Tomoya Uji<br> [_Phys.Rev.D_ **113** (2026) 1, 016025](https://doi.org/10.1103/mkyh-n8st), [arXiv:2509.10223 [hep-ph]](https://arxiv.org/abs/2509.10223).
+
+        1. "Photon polarization tensor at finite temperature and density in a magnetic field"<br> Kenji Fukushima, Yoshimasa Hidaka, Tomoya Uji<br> [_JHEP_ **05** (2025) 181](https://doi.org/10.1007/JHEP05(2025)181), [arXiv:2411.09994 [hep-ph]](https://arxiv.org/abs/2411.09994)
 
         
   - block: collection
