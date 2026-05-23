@@ -2,7 +2,9 @@
 title: "Tomoya Uji"
 ---
 
-I am a theoretical physicist working on QCD.
+## Contact
+
+- Email: uji@nt.phys.s.u-tokyo.ac.jp
 
 ## Research Interests
 
