@@ -10,6 +10,6 @@ Email: uji@nt.phys.s.u-tokyo.ac.jp
 ## Links
 
 - [GitHub](https://github.com/tomoyauji)
-- Google Scholar
-- ORCID
-- INSPIRE-HEP
+- [Google Scholar](https://scholar.google.com/citations?user=pGlIs3MAAAAJ)
+- [ORCID](https://orcid.org/0009-0000-4195-0780)
+- [INSPIRE-HEP](https://inspirehep.net/authors/2849223)

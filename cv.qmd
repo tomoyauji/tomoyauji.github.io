@@ -2,4 +2,3 @@
 title: "CV"
 ---
 
-A PDF version of my CV will be available here.
