@@ -52,17 +52,35 @@ sections:
   #   design:
   #     view: article-grid
   #     columns: 2
-  - block: collection
+  # - block: collection
+  #   id: papers
+  #   content:
+  #     title: Publications
+  #     text: ''
+  #     filters:
+  #       folders:
+  #         - publications
+  #       exclude_featured: false
+  #   design:
+  #     view: citation
+  - block: markdown
     id: papers
     content:
       title: Publications
-      text: ''
-      filters:
-        folders:
-          - publications
-        exclude_featured: false
-    design:
-      view: citation
+      text: |-
+        ## Journal Articles
+
+        1. Kenji Fukushima, Yoshimasa Hidaka, **Tomoya Uji** (2025). Photon polarization tensor at finite temperature and density in a magnetic field.  
+         [_JHEP_ **05** (2025) 181](https://doi.org/10.1007/JHEP05(2025)181), [arXiv:2411.09994 [hep-ph]](https://arxiv.org/abs/2411.09994).
+
+        ## Preprints
+
+        1. **Tomoya Uji**, Kenji Fukushima (2026). Energy-momentum tensor form factors and spin density distribution in the nucleon calculated in a quantized Skyrme model with vector mesons.  
+         [arXiv:2603.11704 [hep-ph]](https://arxiv.org/abs/2603.11704).
+
+        ## Conference Papers
+
+        Coming soon.
   - block: collection
     id: talks
     content:
