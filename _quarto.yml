@@ -1,0 +1,23 @@
+project:
+  type: website
+
+website:
+  title: "Tomoya Uji"
+  site-url: "https://tomoyauji.github.io"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - href: publications.qmd
+        text: Publications
+      - href: cv.qmd
+        text: CV
+      - href: contact.qmd
+        text: Contact
+  page-footer: "© 2026 Tomoya Uji"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
