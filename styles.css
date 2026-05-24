@@ -5,27 +5,41 @@ body {
   text-align: left;
 }
 
-/* Left-aligned main content */
+/* Force Quarto content to be left-aligned */
+#quarto-content {
+  max-width: none !important;
+}
+
+#quarto-document-content,
 main.content {
-  max-width: 1050px;
-  margin-left: 48px;
-  margin-right: auto;
-  padding-left: 0;
-  padding-right: 32px;
+  max-width: 1100px !important;
+  margin-left: 48px !important;
+  margin-right: auto !important;
+  padding-left: 0 !important;
+  padding-right: 32px !important;
 }
 
-/* Quarto page grid adjustment */
-.page-columns .content {
-  max-width: 1050px;
+/* Title block */
+.quarto-title,
+.quarto-title-block,
+.quarto-title-block .quarto-title {
+  text-align: left !important;
 }
 
-/* Navbar */
-.navbar-title {
-  font-weight: 600;
+/* Navbar width and padding */
+.navbar .container-fluid {
+  max-width: none !important;
+  padding-left: 48px !important;
+  padding-right: 48px !important;
 }
 
 /* Headings */
 h1, h2, h3 {
+  font-weight: 600;
+}
+
+/* Navbar title */
+.navbar-title {
   font-weight: 600;
 }
 
@@ -38,21 +52,23 @@ a:hover {
   text-decoration: underline;
 }
 
-/* Publications spacing */
+/* Paragraph spacing */
 main.content p {
-  margin-bottom: 1.0rem;
+  margin-bottom: 1rem;
 }
 
-/* Title spacing */
-.quarto-title {
-  margin-bottom: 1.5rem;
-}
-
-/* Mobile: avoid too much left margin */
+/* Mobile */
 @media (max-width: 768px) {
+  #quarto-document-content,
   main.content {
-    margin-left: 16px;
-    margin-right: 16px;
-    padding-right: 0;
+    max-width: none !important;
+    margin-left: 16px !important;
+    margin-right: 16px !important;
+    padding-right: 0 !important;
+  }
+
+  .navbar .container-fluid {
+    padding-left: 16px !important;
+    padding-right: 16px !important;
   }
 }
