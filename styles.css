@@ -2,16 +2,19 @@
 body {
   font-size: 17px;
   line-height: 1.65;
+  text-align: left;
 }
 
-/* Make the main content wider */
+/* Left-aligned main content */
 main.content {
   max-width: 1050px;
-  margin-left: auto;
+  margin-left: 48px;
   margin-right: auto;
+  padding-left: 0;
+  padding-right: 32px;
 }
 
-/* Quarto page grid width adjustment */
+/* Quarto page grid adjustment */
 .page-columns .content {
   max-width: 1050px;
 }
@@ -35,13 +38,21 @@ a:hover {
   text-decoration: underline;
 }
 
-/* Publications list spacing */
-.publications p,
+/* Publications spacing */
 main.content p {
   margin-bottom: 1.0rem;
 }
 
-/* Slightly reduce huge title spacing */
+/* Title spacing */
 .quarto-title {
   margin-bottom: 1.5rem;
+}
+
+/* Mobile: avoid too much left margin */
+@media (max-width: 768px) {
+  main.content {
+    margin-left: 16px;
+    margin-right: 16px;
+    padding-right: 0;
+  }
 }
