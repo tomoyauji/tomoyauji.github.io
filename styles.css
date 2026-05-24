@@ -1,24 +1,47 @@
+/* Base typography */
 body {
   font-size: 17px;
   line-height: 1.65;
 }
 
+/* Make the main content wider */
+main.content {
+  max-width: 1050px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Quarto page grid width adjustment */
+.page-columns .content {
+  max-width: 1050px;
+}
+
+/* Navbar */
 .navbar-title {
   font-weight: 600;
 }
 
+/* Headings */
 h1, h2, h3 {
   font-weight: 600;
 }
 
-.content {
-  max-width: 820px;
-}
-
+/* Links */
 a {
   text-decoration: none;
 }
 
 a:hover {
   text-decoration: underline;
+}
+
+/* Publications list spacing */
+.publications p,
+main.content p {
+  margin-bottom: 1.0rem;
+}
+
+/* Slightly reduce huge title spacing */
+.quarto-title {
+  margin-bottom: 1.5rem;
 }

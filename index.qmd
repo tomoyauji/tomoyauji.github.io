@@ -6,6 +6,10 @@ title: "Tomoya Uji"
 
 - Email: uji@nt.phys.s.u-tokyo.ac.jp
 
+## Affiliation
+
+- The University of Tokyo, Department of Physics
+
 ## Research Interests
 
 - QCD
