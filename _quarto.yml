@@ -18,7 +18,7 @@ website:
 
 format:
   html:
-    theme: sketchy
+    theme: flatly
     css: styles.css
     toc: false
     page-layout: full
