@@ -2,7 +2,6 @@
 title: "Contact"
 ---
 
-**Tomoya Uji**  
 Department of Physics, The University of Tokyo
 
 Email: uji@nt.phys.s.u-tokyo.ac.jp
